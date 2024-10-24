@@ -28,15 +28,15 @@ Assignment4 贝塞尔曲线：
 ![](IMGS/Assignment4.png)
 
 
-Assignment5 Whitted风格光线追踪：
+Assignment5 Whitted-Stlye光线追踪：
 
-![](IMGS/Assignment5.ppm)
+![](IMGS/Assignment5.png)
 
 
 Assignment6 光线追踪加速结构：
 
-![](IMGS/Assignment6.ppm)
+![](IMGS/Assignment6.png)
 
 Assignment7 光线追踪加速结构2：
 
-![](IMGS/Assignment7.ppm)
+![](IMGS/Assignment7.png)
