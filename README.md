@@ -30,13 +30,13 @@ Assignment4 贝塞尔曲线：
 
 Assignment5 Whitted-Stlye光线追踪：
 
-![](IMGS/Assignment5.png)
+![](IMGS/Assignment5.jpg)
 
 
 Assignment6 光线追踪加速结构：
 
-![](IMGS/Assignment6.png)
+![](IMGS/Assignment6.jpg)
 
 Assignment7 光线追踪加速结构2：
 
-![](IMGS/Assignment7.png)
+![](IMGS/Assignment7.jpg)
