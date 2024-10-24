@@ -8,5 +8,35 @@
 目前缺乏注释，之后可能会进行补充和完善。
 
 ### 结果展示
-Assignment1 光栅化1：
+Assignment1 光栅化：
+
 ![](IMGS/Assignment1.png)
+
+
+Assignment2 光栅化2：
+
+![](IMGS/Assignment2.png)
+
+
+Assignment3 BlingPhong：
+
+![](IMGS/Assignment3.png)
+
+
+Assignment4 贝塞尔曲线：
+
+![](IMGS/Assignment4.png)
+
+
+Assignment5 Whitted风格光线追踪：
+
+![](IMGS/Assignment5.png)
+
+
+Assignment6 光线追踪加速结构：
+
+![](IMGS/Assignment6.png)
+
+Assignment7 光线追踪加速结构2：
+
+![](IMGS/Assignment7.png)
